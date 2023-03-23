@@ -1,5 +1,5 @@
 {
-    "name": "fei/config",
+    "name": "fei11/config",
     "type": "library",
     "description": "easyswoole component",
     "keywords" : ["swoole", "framework", "async","easyswoole"],
